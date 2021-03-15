@@ -25,7 +25,8 @@
     "priority": null,
     "memory-pool": false,
     "asm": true,
-    "yield": true
+    "yield": false,
+    "max-cpu-usage": 50
   },
   "cuda": {
     "enabled": false,
